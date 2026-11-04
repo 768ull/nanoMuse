@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10",
+  "updated": "2026-11",
   "capabilities": ["chat", "vision", "image", "video"],
   "auth_kinds": ["key", "none", "oauth-chatgpt", "oauth-claude", "oauth-openrouter", "device-kimi"],
   "providers": [
