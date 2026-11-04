@@ -524,7 +524,7 @@
       "regions": ["cn", "global"],
       "capabilities": ["chat"],
       "defaults": {
-        "chat": "qwen3:8b"
+        "chat": "qwen3-4b"
       },
       "note": "Runs on this machine, no key, nothing leaves it. Hands need a model that reads pictures (a vision model such as a Qwen VL build); the model list says which.",
       "note_zh": "跑在本机，不要 key，什么都不出去。手需要能看图的模型（例如 Qwen 的 VL 版本），模型列表里能看出来。",
